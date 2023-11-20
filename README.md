@@ -1,2 +1,2 @@
 # Doctor-Appointment-WebApp
-https://doctorappointementweb.netlify.app/
+https://doctorappointementapp.netlify.app/
